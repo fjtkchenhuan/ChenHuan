@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':playmusic'
 rootProject.name='ChenHuan'
